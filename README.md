@@ -31,7 +31,7 @@ Before uploading, replace the placeholder phone number in the code with the aler
 
 ## Project Report
 
-The complete project report is available in `docs/project_report.pdf`.
+The complete project report is available in `report/project_report.pdf`.
 
 ## Applications
 
